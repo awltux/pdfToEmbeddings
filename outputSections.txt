@@ -1,0 +1,2463 @@
+################ pageNumber 0 ###################
+####           majorSection: None - None
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 1 ###################
+####           majorSection: None - None
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 2 ###################
+####           majorSection: None - None
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 3 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.1 - Application  
+############ contentSection: 0.1.1 - Introduction 
+################ pageNumber 4 ###################
+############ contentSection: 0.1.2 - The Building (Scotland) Regulations  2004  
+############ contentSection: 0.1.3 - The building standards  system  
+####           majorSection: 0 - General
+########       minorSection: 0.1 - Application  
+################ pageNumber 5 ###################
+############ contentSection: 0.1.4 - Status of Technical  Handbooks  
+####           majorSection: 0 - General
+########       minorSection: 0.1 - Application  
+################ pageNumber 6 ###################
+############ contentSection: 0.1.5 - Alternative  solutions  
+############ contentSection: 0.1.6 - Domestic and non-domestic  buildings  
+############ contentSection: 0.1.7 - Latest  changes  
+####           majorSection: 0 - General
+########       minorSection: 0.1 - Application  
+################ pageNumber 7 ###################
+############ contentSection: 0.1.8 - Updating 
+############ contentSection: 0.1.9 - Arrangement of Section  0 
+############ contentSection: 0.1.10 - Certification  
+####           majorSection: 0 - General
+########       minorSection: 0.1 - Application  
+################ pageNumber 8 ###################
+########       minorSection: 0.2 - Citation, commencement and interpretation  
+############ contentSection: 0.2.1 - Explanation of  Regulation 1 
+####           majorSection: 0 - General
+################ pageNumber 9 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.2 - Citation, commencement and interpretation  
+############ contentSection: 0.2.1 - Explanation of  Regulation 1 
+################ pageNumber 10 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.2 - Citation, commencement and interpretation  
+############ contentSection: 0.2.1 - Explanation of  Regulation 1 
+################ pageNumber 11 ###################
+############ contentSection: 0.2.2 - Explanation of Regulation 2 
+####           majorSection: 0 - General
+########       minorSection: 0.2 - Citation, commencement and interpretation  
+################ pageNumber 12 ###################
+########       minorSection: 0.3 - Exempted buildings and services, fittings 
+############ contentSection: 0.3.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 13 ###################
+############ contentSection: 0.3.2 - Schedule  1 
+####           majorSection: 0 - General
+########       minorSection: 0.3 - Exempted buildings and services, fittings 
+################ pageNumber 14 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.3 - Exempted buildings and services, fittings 
+############ contentSection: 0.3.2 - Schedule  1 
+################ pageNumber 15 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.3 - Exempted buildings and services, fittings 
+############ contentSection: 0.3.2 - Schedule  1 
+################ pageNumber 16 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.3 - Exempted buildings and services, fittings 
+############ contentSection: 0.3.2 - Schedule  1 
+################ pageNumber 17 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.3 - Exempted buildings and services, fittings 
+############ contentSection: 0.3.2 - Schedule  1 
+################ pageNumber 18 ###################
+########       minorSection: 0.4 - Changes in the occupation or use of a 
+############ contentSection: 0.4.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 19 ###################
+############ contentSection: 0.4.2 - Schedule  2 
+####           majorSection: 0 - General
+########       minorSection: 0.4 - Changes in the occupation or use of a 
+################ pageNumber 20 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.4 - Changes in the occupation or use of a 
+############ contentSection: 0.4.2 - Schedule  2 
+################ pageNumber 21 ###################
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 22 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.1 - Explanation 
+################ pageNumber 23 ###################
+############ contentSection: 0.5.2 - Schedule  3 
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+################ pageNumber 24 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.2 - Schedule  3 
+################ pageNumber 25 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.2 - Schedule  3 
+################ pageNumber 26 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.2 - Schedule  3 
+################ pageNumber 27 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.2 - Schedule  3 
+################ pageNumber 28 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.5 - Buildings work, services, fittings and 
+############ contentSection: 0.5.2 - Schedule  3 
+################ pageNumber 29 ###################
+########       minorSection: 0.6 - Limited life  buildings  
+############ contentSection: 0.6.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 30 ###################
+########       minorSection: 0.7 - Measurements 
+############ contentSection: 0.7.1 - Explanation 
+############ contentSection: 0.7.2 - Schedule  4 
+####           majorSection: 0 - General
+################ pageNumber 31 ###################
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+####           majorSection: 0 - General
+############ contentSection: None - None
+################ pageNumber 32 ###################
+############ contentSection: 0.8.1 - Explanation 
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+################ pageNumber 33 ###################
+############ contentSection: 0.8.2 - Explanation of  terms 
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+################ pageNumber 34 ###################
+############ contentSection: 0.8.3 - Performance  
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+################ pageNumber 35 ###################
+############ contentSection: 0.8.4 - Materials  
+############ contentSection: 0.8.5 - Ways of establishing the fitness of  materials  
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+################ pageNumber 36 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+############ contentSection: 0.8.5 - Ways of establishing the fitness of  materials  
+################ pageNumber 37 ###################
+############ contentSection: 0.8.6 - Short lived materials  
+############ contentSection: 0.8.7 - Materials susceptible to change in their properties  
+############ contentSection: 0.8.8 - Ways of establishing the suitability of workmanship  
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+################ pageNumber 38 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+############ contentSection: 0.8.8 - Ways of establishing the suitability of workmanship  
+################ pageNumber 39 ###################
+############ contentSection: 0.8.9 - Certification  
+####           majorSection: 0 - General
+########       minorSection: 0.8 - Durability, workmanship and fitness of 
+################ pageNumber 40 ###################
+########       minorSection: 0.9 - Building standards applicable to 
+############ contentSection: 0.9.1 - Explanation 
+############ contentSection: 0.9.2 - Schedule  5 
+####           majorSection: 0 - General
+################ pageNumber 41 ###################
+########       minorSection: 0.10 - Building standards applicable to demolition  
+############ contentSection: 0.10.1 - Explanation  
+####           majorSection: 0 - General
+################ pageNumber 42 ###################
+########       minorSection: 0.11 - Building standards applicable to the 
+############ contentSection: 0.11.1 - Explanation  
+####           majorSection: 0 - General
+################ pageNumber 43 ###################
+########       minorSection: 0.12 - Building standards applicable to conversions  
+############ contentSection: 0.12.1 - Explanation 
+############ contentSection: 0.12.2 - Schedule  6 
+####           majorSection: 0 - General
+################ pageNumber 44 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.12 - Building standards applicable to conversions  
+############ contentSection: 0.12.2 - Schedule  6 
+################ pageNumber 45 ###################
+########       minorSection: 0.13 - Provision of protective  works 
+####           majorSection: 0 - General
+############ contentSection: None - None
+################ pageNumber 46 ###################
+############ contentSection: 0.13.1 - Explanation 
+####           majorSection: 0 - General
+########       minorSection: 0.13 - Provision of protective  works 
+################ pageNumber 47 ###################
+########       minorSection: 0.14 - Clearing of  footpaths  
+############ contentSection: 0.14.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 48 ###################
+########       minorSection: 0.15 - Securing of unoccupied and partially 
+############ contentSection: 0.15.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 49 ###################
+########       minorSection: 0.16 - Relaxations 
+############ contentSection: 0.16.1 - Explanation 
+####           majorSection: 0 - General
+################ pageNumber 50 ###################
+########       minorSection: 0.17 - Continuing  Requirements  
+############ contentSection: 0.17.1 - Explanation 
+############ contentSection: 0.17.2 - Implementation 
+####           majorSection: 0 - General
+################ pageNumber 51 ###################
+############ contentSection: 0.17.3 - Procedures to be  followed 
+####           majorSection: 0 - General
+########       minorSection: 0.17 - Continuing  Requirements  
+################ pageNumber 52 ###################
+############ contentSection: 0.17.4 - Provision of information to owners and occupiers  
+############ contentSection: 0.17.5 - Other legislative  requirements  
+####           majorSection: 0 - General
+########       minorSection: 0.17 - Continuing  Requirements  
+################ pageNumber 53 ###################
+####           majorSection: 0 - General
+########       minorSection: 0.17 - Continuing  Requirements  
+############ contentSection: 0.17.5 - Other legislative  requirements  
+################ pageNumber 54 ###################
+####           majorSection: 1 - Structure
+########       minorSection: 1.0 - Introduction  
+############ contentSection: 1.0.1 - Background 
+############ contentSection: 1.0.2 - Aims  
+################ pageNumber 55 ###################
+############ contentSection: 1.0.3 - Latest  changes  
+############ contentSection: 1.0.4 - Relevant  legislation 
+####           majorSection: 1 - Structure
+########       minorSection: 1.0 - Introduction  
+################ pageNumber 56 ###################
+############ contentSection: 1.0.5 - Alternative  approaches  
+############ contentSection: 1.0.6 - Annex  
+####           majorSection: 1 - Structure
+########       minorSection: 1.0 - Introduction  
+################ pageNumber 57 ###################
+############ contentSection: 1.0.7 - Certification  
+####           majorSection: 1 - Structure
+########       minorSection: 1.0 - Introduction  
+################ pageNumber 58 ###################
+########       minorSection: 1.1 - Structure  
+############ contentSection: 1.1.0 - Introduction 
+####           majorSection: 1 - Structure
+################ pageNumber 59 ###################
+############ contentSection: 1.1.1 - General  
+############ contentSection: 1.1.2 - Loading 
+############ contentSection: 1.1.3 - Design and construction 
+####           majorSection: 1 - Structure
+########       minorSection: 1.1 - Structure  
+################ pageNumber 60 ###################
+############ contentSection: 1-3:2006 - (Eurocode 3)  
+############ contentSection: 1.1.4 - Nature of the  ground 
+####           majorSection: 1 - Structure
+########       minorSection: 1.1 - Structure  
+################ pageNumber 61 ###################
+############ contentSection: 1.1.5 - Stability of existing  buildings  
+####           majorSection: 1 - Structure
+########       minorSection: 1.1 - Structure  
+################ pageNumber 62 ###################
+########       minorSection: 1.2 - Disproportionate  Collapse  
+############ contentSection: 1.2.0 - Introduction 
+####           majorSection: 1 - Structure
+################ pageNumber 63 ###################
+############ contentSection: 1.2.1 - Disproportionate  collapse  
+############ contentSection: 1.2.2 - Determine building risk  group 
+####           majorSection: 1 - Structure
+########       minorSection: 1.2 - Disproportionate  Collapse  
+################ pageNumber 64 ###################
+############ contentSection: 1.2.3 - Assess additional  measures  
+####           majorSection: 1 - Structure
+########       minorSection: 1.2 - Disproportionate  Collapse  
+################ pageNumber 65 ###################
+############ contentSection: 1.2.4 - Design and construct additional  measures  
+############ contentSection: 1.2.5 - Other sources of  guidance  
+####           majorSection: 1 - Structure
+########       minorSection: 1.2 - Disproportionate  Collapse  
+################ pageNumber 66 ###################
+########       minorAnnex: 1.A - Structural Design Standards  
+############ contentAnnex: 1.A.0 - Introduction 
+####           majorSection: 1 - Structure
+################ pageNumber 67 ###################
+####           majorSection: 1 - Structure
+########       minorSection: 1.A - Structural Design Standards  
+############ contentSection: 1.A.0 - Introduction 
+################ pageNumber 68 ###################
+####           majorSection: 1 - Structure
+########       minorSection: 1.A - Structural Design Standards  
+############ contentSection: 1.A.0 - Introduction 
+################ pageNumber 69 ###################
+####           majorSection: 1 - Structure
+########       minorSection: 1.A - Structural Design Standards  
+############ contentSection: 1.A.0 - Introduction 
+################ pageNumber 70 ###################
+####           majorSection: 1 - Structure
+########       minorSection: 1.A - Structural Design Standards  
+############ contentSection: 1.A.0 - Introduction 
+################ pageNumber 71 ###################
+####           majorSection: 1 - Structure
+########       minorSection: 1.A - Structural Design Standards  
+############ contentSection: 1.A.0 - Introduction 
+################ pageNumber 72 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+############ contentSection: 2.0.1 - Background 
+############ contentSection: 2.0.2 - Aims  
+################ pageNumber 73 ###################
+############ contentSection: 2.0.3 - Scope  
+############ contentSection: 2.0.4 - Method of  measurement  
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+################ pageNumber 74 ###################
+############ contentSection: 2.0.5 - Latest  changes  
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+################ pageNumber 75 ###################
+############ contentSection: 2.0.6 - Explanation of  terms 
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+################ pageNumber 76 ###################
+############ contentSection: 2.0.7 - Alternative  approaches  
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+################ pageNumber 77 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+############ contentSection: 2.0.7 - Alternative  approaches  
+################ pageNumber 78 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+############ contentSection: 2.0.7 - Alternative  approaches  
+################ pageNumber 79 ###################
+############ contentSection: 2.0.8 - Relevant  legislation  
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+################ pageNumber 80 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.0 - Introdu ction 
+############ contentSection: 2.0.8 - Relevant  legislation  
+################ pageNumber 81 ###################
+########       minorAnnex: 2.A - -  Resistance to fire  
+########       minorAnnex: 2B - -  Reaction to fire  
+########       minorAnnex: 2C - -  Vulnerability of roof coverings  
+############ contentSection: 2.0.9 - Annexes  
+############ contentSection: 2.0.10 - Independent third party certification and accreditation  
+####           majorSection: 2 - Fire
+################ pageNumber 82 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2C - -  Vulnerability of roof coverings  
+############ contentSection: 2.0.10 - Independent third party certification and accreditation  
+################ pageNumber 83 ###################
+########       minorSection: 2.1 - Compartmentation  
+############ contentSection: 2.1.0 - Introduction 
+####           majorSection: 2 - Fire
+################ pageNumber 84 ###################
+########       minorSection: 2.2 - Separation  
+############ contentSection: 2.2.0 - Introduction 
+############ contentSection: 2.2.1 - Dwellings in different  occupation  
+############ contentSection: 2.2.2 - Dwellings with common  occupation 
+############ contentSection: 2.2.3 - Separation between domestic and non-domestic buildings  
+####           majorSection: 2 - Fire
+################ pageNumber 85 ###################
+############ contentSection: 2.2.4 - Domestic  garages  
+############ contentSection: 2.2.5 - Lift wells  
+############ contentSection: 2.2.6 - Combustibility  
+####           majorSection: 2 - Fire
+########       minorSection: 2.2 - Separation  
+################ pageNumber 86 ###################
+############ contentSection: 2.2.7 - High rise domestic  buildings  
+############ contentSection: 2.2.8 - Supporting  structure  
+############ contentSection: 2.2.9 - Openings and service  penetrations  
+####           majorSection: 2 - Fire
+########       minorSection: 2.2 - Separation  
+################ pageNumber 87 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.2 - Separation  
+############ contentSection: 2.2.9 - Openings and service  penetrations  
+################ pageNumber 88 ###################
+############ contentSection: 2.2.10 - Junctions  
+####           majorSection: 2 - Fire
+########       minorSection: 2.2 - Separation  
+################ pageNumber 89 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.2 - Separation  
+############ contentSection: 2.2.10 - Junctions  
+################ pageNumber 90 ###################
+########       minorSection: 2.3 - Structural  protection  
+############ contentSection: 2.3.0 - Introduction 
+############ contentSection: 2.3.1 - Element of structure  
+####           majorSection: 2 - Fire
+################ pageNumber 91 ###################
+############ contentSection: 2.3.2 - Combustibility  
+############ contentSection: 2.3.3 - Supporting  structure  
+############ contentSection: 2.3.4 - Openings and service  penetrations  
+####           majorSection: 2 - Fire
+########       minorSection: 2.3 - Structural  protection  
+################ pageNumber 92 ###################
+############ contentSection: 2.3.5 - Junctions  
+####           majorSection: 2 - Fire
+########       minorSection: 2.3 - Structural  protection  
+################ pageNumber 93 ###################
+########       minorSection: 2.4 - Cavities 
+############ contentSection: 2.4.0 - Introduction 
+############ contentSection: 2.4.1 - Cavity  barriers  
+####           majorSection: 2 - Fire
+################ pageNumber 94 ###################
+############ contentSection: 2.4.2 - Dividing up  cavities 
+############ contentSection: 2.4.3 - Fire resisting ceilings as an alternative to cavity barriers  
+####           majorSection: 2 - Fire
+########       minorSection: 2.4 - Cavities 
+################ pageNumber 95 ###################
+############ contentSection: 2.4.4 - Cavities in external walls of domestic buildings with a storey at a 
+############ contentSection: 2.4.5 - Supporting  structure  
+############ contentSection: 2.4.6 - Openings and service  penetrations  
+############ contentSection: 2.4.7 - Junctions  
+####           majorSection: 2 - Fire
+########       minorSection: 2.4 - Cavities 
+################ pageNumber 96 ###################
+########       minorSection: 2.5 - Internal  linings  
+############ contentSection: 2.5.0 - Introduction 
+############ contentSection: 2.5.1 - Internal  linings  
+############ contentSection: 2.5.2 - Assessment of  linings  
+####           majorSection: 2 - Fire
+################ pageNumber 97 ###################
+############ contentSection: 2.5.3 - Plastic  glazing 
+############ contentSection: 2.5.4 - Thermoplastic  material  
+####           majorSection: 2 - Fire
+########       minorSection: 2.5 - Internal  linings  
+################ pageNumber 98 ###################
+############ contentSection: 2.5.5 - Thermoplastic materials in ceilings  
+############ contentSection: 2.5.6 - Thermoplastic materials in rooflights  
+############ contentSection: 2.5.7 - Thermoplastic materials in light fittings with diffusers  
+####           majorSection: 2 - Fire
+########       minorSection: 2.5 - Internal  linings  
+################ pageNumber 99 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.5 - Internal  linings  
+############ contentSection: 2.5.7 - Thermoplastic materials in light fittings with diffusers  
+################ pageNumber 100 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.5 - Internal  linings  
+############ contentSection: 2.5.7 - Thermoplastic materials in light fittings with diffusers  
+################ pageNumber 101 ###################
+############ contentSection: 2.5.8 - Sandwich  panels 
+####           majorSection: 2 - Fire
+########       minorSection: 2.5 - Internal  linings  
+################ pageNumber 102 ###################
+########       minorSection: 2.6 - Spread to neighbouring  buildings  
+############ contentSection: 2.6.0 - Introduction 
+############ contentSection: 2.6.1 - Fire resistance duration of external  walls  
+####           majorSection: 2 - Fire
+################ pageNumber 103 ###################
+############ contentSection: 2.6.2 - Unprotected  area 
+############ contentSection: 2.6.3 - The simple geometry method  
+####           majorSection: 2 - Fire
+########       minorSection: 2.6 - Spread to neighbouring  buildings  
+################ pageNumber 104 ###################
+############ contentSection: 2.6.4 - External wall  cladding 
+####           majorSection: 2 - Fire
+########       minorSection: 2.6 - Spread to neighbouring  buildings  
+################ pageNumber 105 ###################
+############ contentSection: 2.6.5 - Combustibility  
+############ contentSection: 2.6.6 - Supporting  structure  
+####           majorSection: 2 - Fire
+########       minorSection: 2.6 - Spread to neighbouring  buildings  
+################ pageNumber 106 ###################
+########       minorSection: 2.7 - Spread on external  walls  
+############ contentSection: 2.7.0 - Introduction 
+####           majorSection: 2 - Fire
+################ pageNumber 107 ###################
+############ contentSection: 2.7.1 - External wall cladding  systems  
+####           majorSection: 2 - Fire
+########       minorSection: 2.7 - Spread on external  walls  
+################ pageNumber 108 ###################
+############ contentSection: 2.7.2 - Specified  attachments  
+####           majorSection: 2 - Fire
+########       minorSection: 2.7 - Spread on external  walls  
+################ pageNumber 109 ###################
+########       minorSection: 2.8 - Spread from neighbouring  buildings  
+############ contentSection: 2.8.0 - Introduction 
+############ contentSection: 2.8.1 - Roof  coverings  
+####           majorSection: 2 - Fire
+################ pageNumber 110 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.8 - Spread from neighbouring  buildings  
+############ contentSection: 2.8.1 - Roof  coverings  
+################ pageNumber 111 ###################
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.0 - Introduction 
+####           majorSection: 2 - Fire
+################ pageNumber 112 ###################
+############ contentSection: 2.9.1 - Escape within dwellings -  general  principles  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 113 ###################
+############ contentSection: 2.9.2 - Escape within dwellings -  options  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 114 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.2 - Escape within dwellings -  options  
+################ pageNumber 115 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.2 - Escape within dwellings -  options  
+################ pageNumber 116 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.2 - Escape within dwellings -  options  
+################ pageNumber 117 ###################
+############ contentSection: 2.9.3 - Escape within dwellings -  basement  storeys  
+############ contentSection: 2.9.4 - Escape within dwellings -  escape  windows  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 118 ###################
+############ contentSection: 2.9.5 - Escape within dwellings -  protected enclosure  
+############ contentSection: 2.9.6 - Escape within dwellings -  alternative  exits  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 119 ###################
+############ contentSection: 2.9.7 - Escape within dwellings -  open plan option with suppression 
+############ contentSection: 2.9.8 - Escape within dwellings -  ducted heating and ventilation  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 120 ###################
+############ contentSection: 2.9.9 - Escape routes - general  principles  
+############ contentSection: 2.9.10 - Escape routes - options  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 121 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.10 - Escape routes - options  
+################ pageNumber 122 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.10 - Escape routes - options  
+################ pageNumber 123 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+############ contentSection: 2.9.10 - Escape routes - options  
+################ pageNumber 124 ###################
+############ contentSection: 2.9.11 - Escape routes - basement  storeys  
+############ contentSection: 2.9.12 - Escape routes - protected  zones  
+############ contentSection: 2.9.13 - Escape routes - protected  lobbies  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 125 ###################
+############ contentSection: 2.9.14 - Escape routes - smoke  ventilation 
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 126 ###################
+############ contentSection: 2.9.15 - Escape routes - natural smoke  ventilation  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 127 ###################
+############ contentSection: 2.9.16 - Escape routes - mechani cal smoke  ventilation 
+############ contentSection: 2.9.17 - Escape routes - mixed use buildings  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 128 ###################
+############ contentSection: 2.9.18 - Escape routes - fire hazard rooms and  services  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 129 ###################
+############ contentSection: 2.9.19 - Escape routes - construction of escape  stairs 
+############ contentSection: 2.9.20 - Escape routes - openings  
+############ contentSection: 2.9.21 - Escape routes - junctions  
+############ contentSection: 2.9.22 - Escape routes - external escape routes and escape  stairs 
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 130 ###################
+############ contentSection: 2.9.23 - Escape routes - open access balconies 
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 131 ###################
+############ contentSection: 2.9.24 - Escape routes - refuge within  buildings  
+####           majorSection: 2 - Fire
+########       minorSection: 2.9 - Escape  
+################ pageNumber 132 ###################
+########       minorSection: 2.10 - Escape  lighting  
+############ contentSection: 2.10.0 - Introduction 
+############ contentSection: 2.10.1 - Escape route  lighting 
+############ contentSection: 2.10.2 - Protected  circuits  
+############ contentSection: 2.10.3 - Emerge ncy lighting 
+####           majorSection: 2 - Fire
+################ pageNumber 133 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.10 - Escape  lighting  
+############ contentSection: 2.10.3 - Emerge ncy lighting 
+################ pageNumber 134 ###################
+########       minorSection: 2.11 - Communication  
+############ contentSection: 2.11.0 - Introduction 
+############ contentSection: 2.11.1 - Fire detection and fire alarm  systems  
+####           majorSection: 2 - Fire
+################ pageNumber 135 ###################
+############ contentSection: 2.11.2 - Choice of fire  detector  
+####           majorSection: 2 - Fire
+########       minorSection: 2.11 - Communication  
+################ pageNumber 136 ###################
+############ contentSection: 2.11.3 - Optical smoke  alarms 
+############ contentSection: 2.11.4 - Ionisation smoke  alarms  
+############ contentSection: 2.11.5 - Multi sensor  alarms  
+####           majorSection: 2 - Fire
+########       minorSection: 2.11 - Communication  
+################ pageNumber 137 ###################
+############ contentSection: 2.11.6 - Heat  alarms 
+############ contentSection: 2.11.7 - Siting of fire  detectors  
+####           majorSection: 2 - Fire
+########       minorSection: 2.11 - Communication  
+################ pageNumber 138 ###################
+############ contentSection: 2.11.8 - Grade of fire detection and fire alarm  system  
+############ contentSection: 2.11.9 - Wiring and power  
+####           majorSection: 2 - Fire
+########       minorSection: 2.11 - Communication  
+################ pageNumber 139 ###################
+############ contentSection: 2.11.10 - Radio linked  systems  
+####           majorSection: 2 - Fire
+########       minorSection: 2.11 - Communication  
+################ pageNumber 140 ###################
+########       minorSection: 2.12 - Fire and rescue service access 
+############ contentSection: 2.12.0 - Introduction 
+############ contentSection: 2.12.1 - Vehicle access  provision 
+####           majorSection: 2 - Fire
+################ pageNumber 141 ###################
+############ contentSection: 2.12.2 - Vehicle ac cess  routes  
+############ contentSection: 2.12.3 - Operating spaces for high reach  appliances 
+####           majorSection: 2 - Fire
+########       minorSection: 2.12 - Fire and rescue service access 
+################ pageNumber 142 ###################
+############ contentSection: 2.12.4 - Access for fire and rescue service  personnel  
+####           majorSection: 2 - Fire
+########       minorSection: 2.12 - Fire and rescue service access 
+################ pageNumber 143 ###################
+########       minorSection: 2.13 - Fire and rescue service water  supply  
+############ contentSection: 2.13.0 - Introduction 
+############ contentSection: 2.13.1 - Fire and rescue service water  supply  
+############ contentSection: 2.13.2 - Public water  supply  
+####           majorSection: 2 - Fire
+################ pageNumber 144 ###################
+############ contentSection: 2.13.3 - Alternative water  supply  
+####           majorSection: 2 - Fire
+########       minorSection: 2.13 - Fire and rescue service water  supply  
+################ pageNumber 145 ###################
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+############ contentSection: 2.14.0 - Introduction 
+####           majorSection: 2 - Fire
+################ pageNumber 146 ###################
+############ contentSection: 2.14.1 - Fire and rescue service  facilities  
+############ contentSection: 2.14.2 - Number and type of  facilities  
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 147 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+############ contentSection: 2.14.2 - Number and type of  facilities  
+################ pageNumber 148 ###################
+############ contentSection: 2.14.3 - Fire-fighting  stairs  
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 149 ###################
+############ contentSection: 2.14.4 - Fire-fighting  lifts 
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 150 ###################
+############ contentSection: 2.14.5 - Fire-fighting  lobbies  
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 151 ###################
+############ contentSection: 2.14.6 - Heat and smoke  control  
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 152 ###################
+############ contentSection: 2.14.7 - Fire mains 
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 153 ###################
+############ contentSection: 2.14.8 - Evacuation alert system for use by the fire and rescue  service  
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 154 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+############ contentSection: 2.14.8 - Evacuation alert system for use by the fire and rescue  service  
+################ pageNumber 155 ###################
+############ contentSection: 2.14.9 - Storey identification signs and dwelling indicator  signs  
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+################ pageNumber 156 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.14 - Fire and rescue service  facilities  
+############ contentSection: 2.14.9 - Storey identification signs and dwelling indicator  signs  
+################ pageNumber 157 ###################
+########       minorSection: 2.15 - Automatic fire suppression  systems  
+############ contentSection: 2.15.0 - Introduction 
+####           majorSection: 2 - Fire
+################ pageNumber 158 ###################
+############ contentSection: 2.15.1 - Automatic fire suppression  systems  
+####           majorSection: 2 - Fire
+########       minorSection: 2.15 - Automatic fire suppression  systems  
+################ pageNumber 159 ###################
+############ contentSection: 2.15.2 - Sheltered housing complexes  
+############ contentSection: 2.15.3 - Buildings Containing Flats and Maisonettes 
+############ contentSection: 2.15.4 - Social Housing Dwellings  
+############ contentSection: 2.15.5 - Water  supply  
+####           majorSection: 2 - Fire
+########       minorSection: 2.15 - Automatic fire suppression  systems  
+################ pageNumber 160 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.15 - Automatic fire suppression  systems  
+############ contentSection: 2.15.5 - Water  supply  
+################ pageNumber 161 ###################
+########       minorAnnex: 2.A - Resistance to fire 
+############ contentAnnex: 2.A.0 - Introduction 
+############ contentAnnex: 2.A.1 - Fire resistance duration 
+############ contentAnnex: 2.A.2 - British Standards and associated  specifications 
+####           majorSection: 2 - Fire
+################ pageNumber 162 ###################
+############ contentAnnex: 2.A.3 - Harmonised European Standards  
+####           majorSection: 2 - Fire
+########       minorSection: 2.A - Resistance to fire 
+################ pageNumber 163 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.A - Resistance to fire 
+############ contentSection: 2.A.3 - Harmonised European Standards  
+################ pageNumber 164 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.A - Resistance to fire 
+############ contentSection: 2.A.3 - Harmonised European Standards  
+################ pageNumber 165 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.A - Resistance to fire 
+############ contentSection: 2.A.3 - Harmonised European Standards  
+################ pageNumber 166 ###################
+########       minorAnnex: 2.B - Reaction to fire  
+############ contentAnnex: 2.B.0 - Introduction 
+############ contentAnnex: 2.B.1 - Reaction to fire  classification  
+####           majorSection: 2 - Fire
+################ pageNumber 167 ###################
+############ contentAnnex: 2.B.2 - Harmonised European Standards  
+####           majorSection: 2 - Fire
+########       minorSection: 2.B - Reaction to fire  
+################ pageNumber 168 ###################
+############ contentAnnex: 2.B.3 - Classified without  Testing  
+####           majorSection: 2 - Fire
+########       minorSection: 2.B - Reaction to fire  
+################ pageNumber 169 ###################
+########       minorAnnex: 2.C - Vulnerability of roof coverings  
+############ contentAnnex: 2.C.0 - Introduction  
+############ contentAnnex: 2.C.1 - Vulnerability of roof  coverings 
+############ contentAnnex: 2.C.2 - British Standards and associated  specifications 
+####           majorSection: 2 - Fire
+################ pageNumber 170 ###################
+############ contentAnnex: 2.C.3 - Harmonised European Standards  
+####           majorSection: 2 - Fire
+########       minorSection: 2.C - Vulnerability of roof coverings  
+################ pageNumber 171 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.C - Vulnerability of roof coverings  
+############ contentSection: 2.C.3 - Harmonised European Standards  
+################ pageNumber 172 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.C - Vulnerability of roof coverings  
+############ contentSection: 2.C.3 - Harmonised European Standards  
+################ pageNumber 173 ###################
+####           majorSection: 2 - Fire
+########       minorSection: 2.C - Vulnerability of roof coverings  
+############ contentSection: 2.C.3 - Harmonised European Standards  
+################ pageNumber 174 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.0 - Introduction  
+############ contentSection: 3.0.1 - Background 
+################ pageNumber 175 ###################
+############ contentSection: 3.0.2 - Aims  
+############ contentSection: 3.0.3 - Latest  changes  
+############ contentSection: 3.0.4 - Relevant  legislation 
+####           majorSection: 3 - Environment
+########       minorSection: 3.0 - Introduction  
+################ pageNumber 176 ###################
+############ contentSection: 3.0.5 - Certification  
+####           majorSection: 3 - Environment
+########       minorSection: 3.0 - Introduction  
+################ pageNumber 177 ###################
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+############ contentSection: 3.1.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 178 ###################
+############ contentSection: 3.1.1 - Preparation of a  site 
+############ contentSection: 3.1.2 - Harmful or dangerous  substances  
+############ contentSection: 3.1.3 - Hazard identification and  assessment  
+####           majorSection: 3 - Environment
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+################ pageNumber 179 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+############ contentSection: 3.1.3 - Hazard identification and  assessment  
+################ pageNumber 180 ###################
+############ contentSection: 3.1.4 - Development on land that may be  contaminated  
+############ contentSection: 3.1.5 - Land not initially identified as being contaminated  
+####           majorSection: 3 - Environment
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+################ pageNumber 181 ###################
+############ contentSection: 3.1.6 - Risk management  techniques  
+####           majorSection: 3 - Environment
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+################ pageNumber 182 ###################
+############ contentSection: 3.1.7 - Housing on land affected by  contamination  
+############ contentSection: 3.1.8 - Re-development of industrial  land 
+############ contentSection: 3.1.9 - Risks to construction materials and  services  
+####           majorSection: 3 - Environment
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+################ pageNumber 183 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.1 - Site preparation -  harmful and dangerous 
+############ contentSection: 3.1.9 - Risks to construction materials and  services  
+################ pageNumber 184 ###################
+########       minorSection: 3.2 - Site preparation -  protection from radon gas 
+############ contentSection: 3.2.0 - Introduction 
+############ contentSection: 3.2.1 - Radon probability  areas  
+####           majorSection: 3 - Environment
+################ pageNumber 185 ###################
+############ contentSection: 3.2.2 - Protection from radon gas 
+####           majorSection: 3 - Environment
+########       minorSection: 3.2 - Site preparation -  protection from radon gas 
+################ pageNumber 186 ###################
+########       minorSection: 3.3 - Flooding and  groundwater  
+############ contentSection: 3.3.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 187 ###################
+############ contentSection: 3.3.1 - Groundwater 
+############ contentSection: 3.3.2 - Flood risk  assessm ent 
+############ contentSection: 3.3.3 - Resilient construction in flood risk  areas  
+####           majorSection: 3 - Environment
+########       minorSection: 3.3 - Flooding and  groundwater  
+################ pageNumber 188 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.3 - Flooding and  groundwater  
+############ contentSection: 3.3.3 - Resilient construction in flood risk  areas  
+################ pageNumber 189 ###################
+########       minorSection: 3.4 - Moisture from the  ground  
+############ contentSection: 3.4.0 - Introduction 
+############ contentSection: 3.4.1 - Treatment of building elements adjacent to the ground 
+####           majorSection: 3 - Environment
+################ pageNumber 190 ###################
+############ contentSection: 3.4.2 - Ground supported concrete  floors  
+############ contentSection: 3.4.3 - Suspended concrete  floors  
+####           majorSection: 3 - Environment
+########       minorSection: 3.4 - Moisture from the  ground  
+################ pageNumber 191 ###################
+############ contentSection: 3.4.4 - Suspended timber  floors  
+############ contentSection: 3.4.5 - Walls at or near ground level  
+############ contentSection: 3.4.6 - Floors at or near ground  level  
+############ contentSection: 3.4.7 - Structures below gro und, including basements  
+####           majorSection: 3 - Environment
+########       minorSection: 3.4 - Moisture from the  ground  
+################ pageNumber 192 ###################
+########       minorSection: 3.5 - Existing  drains  
+############ contentSection: 3.5.0 - Introduction 
+############ contentSection: 3.5.1 - Existing  drains  
+############ contentSection: 3.5.2 - Re-routing of  drains  
+####           majorSection: 3 - Environment
+################ pageNumber 193 ###################
+############ contentSection: 3.5.3 - Re-construction of  drains  
+############ contentSection: 3.5.4 - Drains passing through  structures  
+############ contentSection: 3.5.5 - Sealing disused drains  
+####           majorSection: 3 - Environment
+########       minorSection: 3.5 - Existing  drains  
+################ pageNumber 194 ###################
+########       minorSection: 3.6 - Surface water  drain age 
+############ contentSection: 3.6.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 195 ###################
+############ contentSection: 3.6.1 - Surface water drainage from  dwellings  
+############ contentSection: 3.6.2 - Surface water drainage of paved  surfaces  
+############ contentSection: 3.6.3 - Surface water  discharge 
+####           majorSection: 3 - Environment
+########       minorSection: 3.6 - Surface water  drain age 
+################ pageNumber 196 ###################
+############ contentSection: 3.6.4 - Sustainable Urban Drainage  Systems 
+####           majorSection: 3 - Environment
+########       minorSection: 3.6 - Surface water  drain age 
+################ pageNumber 197 ###################
+############ contentSection: 3.6.5 - Soakaway single dwellings and  extensions  
+############ contentSection: 3.6.6 - Surface water run -off from small paved  areas  
+############ contentSection: 3.6.7 - Rainwater  harvesting  
+####           majorSection: 3 - Environment
+########       minorSection: 3.6 - Surface water  drain age 
+################ pageNumber 198 ###################
+############ contentSection: 3.6.8 - Traditional drainage  systems  
+############ contentSection: 3.6.9 - Discharges into a drainage  system  
+############ contentSection: 3.6.10 - Testing  
+####           majorSection: 3 - Environment
+########       minorSection: 3.6 - Surface water  drain age 
+################ pageNumber 199 ###################
+########       minorSection: 3.7 - Wast ewater  drainage  
+############ contentSection: 3.7.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 200 ###################
+############ contentSection: 3.7.1 - Sanitary pipework  
+############ contentSection: 3.7.2 - Sanitary appliances below flood level  
+####           majorSection: 3 - Environment
+########       minorSection: 3.7 - Wast ewater  drainage  
+################ pageNumber 201 ###################
+############ contentSection: 3.7.3 - Drainage system outside a building 
+############ contentSection: 3.7.4 - Connection to a public  sewer  
+############ contentSection: 3.7.5 - Combined  sewers  
+####           majorSection: 3 - Environment
+########       minorSection: 3.7 - Wast ewater  drainage  
+################ pageNumber 202 ###################
+############ contentSection: 3.7.6 - Conversions and  extensions  
+############ contentSection: 3.7.7 - Sewers intended for  vesting  
+############ contentSection: 3.7.8 - Ventilation of a drainage  system  
+############ contentSection: 3.7.9 - Testing  
+############ contentSection: 3.7.10 - Wastewater  discharge  
+####           majorSection: 3 - Environment
+########       minorSection: 3.7 - Wast ewater  drainage  
+################ pageNumber 203 ###################
+########       minorSection: 3.8 - Private wastewater treatment systems - 
+############ contentSection: 3.8.0 - Introduction 
+############ contentSection: 3.8.1 - Treat ment  plants  
+####           majorSection: 3 - Environment
+################ pageNumber 204 ###################
+############ contentSection: 3.8.2 - Treatment plant  covers 
+############ contentSection: 3.8.3 - Inspection and  sampling 
+############ contentSection: 3.8.4 - Location of a treatment  plant  
+####           majorSection: 3 - Environment
+########       minorSection: 3.8 - Private wastewater treatment systems - 
+################ pageNumber 205 ###################
+############ contentSection: 3.8.5 - Discharges from septic tanks and treatment plants  
+############ contentSection: 3.8.6 - Access for  desludging 
+############ contentSection: 3.8.7 - Labelling 
+####           majorSection: 3 - Environment
+########       minorSection: 3.8 - Private wastewater treatment systems - 
+################ pageNumber 206 ###################
+########       minorSection: 3.9 - Private wastewater treatment systems -  
+############ contentSection: 3.9.0 - Introduction 
+############ contentSection: 3.9.1 - Assessing the suitability of the  ground 
+####           majorSection: 3 - Environment
+################ pageNumber 207 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.9 - Private wastewater treatment systems -  
+############ contentSection: 3.9.1 - Assessing the suitability of the  ground 
+################ pageNumber 208 ###################
+############ contentSection: 3.9.2 - Design of infiltration fields  
+####           majorSection: 3 - Environment
+########       minorSection: 3.9 - Private wastewater treatment systems -  
+################ pageNumber 209 ###################
+############ contentSection: 3.9.3 - Greywater  disposal  
+############ contentSection: 3.9.4 - Location of infiltration fields - pollution 
+####           majorSection: 3 - Environment
+########       minorSection: 3.9 - Private wastewater treatment systems -  
+################ pageNumber 210 ###################
+############ contentSection: 3.9.5 - Location of infiltration fields -  damage to buildings  
+####           majorSection: 3 - Environment
+########       minorSection: 3.9 - Private wastewater treatment systems -  
+################ pageNumber 211 ###################
+########       minorSection: 3.10 - Precipitation  
+############ contentSection: 3.10.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 212 ###################
+############ contentSection: 3.10.1 - General  provisions  
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+################ pageNumber 213 ###################
+############ contentSection: 3.10.2 - Wall constructions (solid,  masonry)  
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+################ pageNumber 214 ###################
+############ contentSection: 3.10.3 - Wall constr uctions (cavity,  masonry)  
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+################ pageNumber 215 ###################
+############ contentSection: 3.10.4 - Extensions  
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+################ pageNumber 216 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+############ contentSection: 3.10.4 - Extensions  
+################ pageNumber 217 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+############ contentSection: 3.10.4 - Extensions  
+################ pageNumber 218 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+############ contentSection: 3.10.4 - Extensions  
+################ pageNumber 219 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.10 - Precipitation  
+############ contentSection: 3.10.4 - Extensions  
+################ pageNumber 220 ###################
+########       minorSection: 3.11 - Facilities in  dwellings  
+############ contentSection: 3.11.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 221 ###################
+############ contentSection: 3.11.1 - Apartments  
+############ contentSection: 3.11.2 - Enhanced  apartment  
+####           majorSection: 3 - Environment
+########       minorSection: 3.11 - Facilities in  dwellings  
+################ pageNumber 222 ###################
+############ contentSection: 3.11.3 - Kitchens  
+####           majorSection: 3 - Environment
+########       minorSection: 3.11 - Facilities in  dwellings  
+################ pageNumber 223 ###################
+############ contentSection: 3.11.4 - Height of activity  spaces  
+############ contentSection: 3.11.5 - Alterations and  extensions 
+############ contentSection: 3.11.6 - Drying of  washing 
+####           majorSection: 3 - Environment
+########       minorSection: 3.11 - Facilities in  dwellings  
+################ pageNumber 224 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.11 - Facilities in  dwellings  
+############ contentSection: 3.11.6 - Drying of  washing 
+################ pageNumber 225 ###################
+########       minorSection: 3.12 - Sanitary facilities  
+############ contentSection: 3.12.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 226 ###################
+############ contentSection: 3.12.1 - Sanitary provision 
+############ contentSection: 3.12.2 - Waterless closets 
+############ contentSection: 3.12.3 - Accessible sanitary  accommodation 
+####           majorSection: 3 - Environment
+########       minorSection: 3.12 - Sanitary facilities  
+################ pageNumber 227 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.12 - Sanitary facilities  
+############ contentSection: 3.12.3 - Accessible sanitary  accommodation 
+################ pageNumber 228 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.12 - Sanitary facilities  
+############ contentSection: 3.12.3 - Accessible sanitary  accommodation 
+################ pageNumber 229 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.12 - Sanitary facilities  
+############ contentSection: 3.12.3 - Accessible sanitary  accommodation 
+################ pageNumber 230 ###################
+############ contentSection: 3.12.4 - Access to sanitary  accommodation  
+############ contentSection: 3.12.5 - Alteration and extensions  
+############ contentSection: 3.12.3 - or the previous guidance for an accessible toilet (see below), any changes should 
+####           majorSection: 3 - Environment
+########       minorSection: 3.12 - Sanitary facilities  
+################ pageNumber 231 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.12 - Sanitary facilities  
+############ contentSection: 3.12.3 - or the previous guidance for an accessible toilet (see below), any changes should 
+################ pageNumber 232 ###################
+########       minorSection: 3.13 - Heating  
+############ contentSection: 3.13.0 - Introduction 
+############ contentSection: 3.13.1 - Heating  recommendations  
+####           majorSection: 3 - Environment
+################ pageNumber 233 ###################
+############ contentSection: 3.13.2 - Alternative heating  systems  
+####           majorSection: 3 - Environment
+########       minorSection: 3.13 - Heating  
+################ pageNumber 234 ###################
+########       minorSection: 3.14 - Ventilation  
+############ contentSection: 3.14.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 235 ###################
+############ contentSection: 3.14.1 - Ventilation  generally 
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 236 ###################
+############ contentSection: 3.14.2 - Ventilation  of dwellings  
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 237 ###################
+############ contentSection: 3.14.3 - Provision for purge  ventilation 
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 238 ###################
+############ contentSection: 3.14.4 - Natural  ventilation  (with  intermittent  mechanical  extract)  
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 239 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+############ contentSection: 3.14.4 - Natural  ventilation  (with  intermittent  mechanical  extract)  
+################ pageNumber 240 ###################
+############ contentSection: 3.14.5 - Continuous  mechanical  extract  ventilation 
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 241 ###################
+############ contentSection: 3.14.6 - Continuous  mechanical  supply  and extract ventilation  
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 242 ###################
+############ contentSection: 3.14.7 - Ventilation  awareness  in dwellings  
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 243 ###################
+############ contentSection: 3.14.9 - Ventilation  of conservatories  
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 244 ###################
+############ contentSection: 3.14.10 - Ventilation  of areas designated  for drying  of washing 
+############ contentSection: 3.14.11 - Conservatories  and extensions  built  over  existing windows  
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 245 ###################
+############ contentSection: 3.14.12 - Control of  legionellosis  
+############ contentSection: 3.14.13 - Ventilation of  garages 
+####           majorSection: 3 - Environment
+########       minorSection: 3.14 - Ventilation  
+################ pageNumber 246 ###################
+########       minorSection: 3.15 - Condensation  
+############ contentSection: 3.15.0 - Introduction 
+############ contentSection: 3.15.1 - Condensation 
+####           majorSection: 3 - Environment
+################ pageNumber 247 ###################
+############ contentSection: 3.15.2 - Control of  humidity  
+############ contentSection: 3.15.3 - Control of condensation in roofs  
+############ contentSection: 3.15.4 - Surface condensation -  thermal  bridging 
+####           majorSection: 3 - Environment
+########       minorSection: 3.15 - Condensation  
+################ pageNumber 248 ###################
+############ contentSection: 3.15.5 - Interstitial  condensation 
+############ contentSection: 3.15.6 - Roof constructions  (flat)  
+############ contentSection: 3.15.7 - Roof constructions  (pitched)  
+####           majorSection: 3 - Environment
+########       minorSection: 3.15 - Condensation  
+################ pageNumber 249 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.15 - Condensation  
+############ contentSection: 3.15.7 - Roof constructions  (pitched)  
+################ pageNumber 250 ###################
+########       minorSection: 3.16 - Natural  lighting 
+############ contentSection: 3.16.0 - Introduction 
+############ contentSection: 3.16.1 - Natural lighting provision 
+############ contentSection: 3.16.2 - Conservatories  
+############ contentSection: 3.16.3 - Extensions  
+####           majorSection: 3 - Environment
+################ pageNumber 251 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.16 - Natural  lighting 
+############ contentSection: 3.16.3 - Extensions  
+################ pageNumber 252 ###################
+########       minorSection: 3.17 - Combustion appliances - safe operation  
+############ contentSection: 3.17.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 253 ###################
+############ contentSection: 3.17.1 - Combustion appliance installations  generally 
+############ contentSection: 3.17.2 - Large combustion appliance  installations  
+############ contentSection: 3.17.3 - Small combustion appliance  installations  
+############ contentSection: 3.17.4 - Solid fuel appliance  installations  
+####           majorSection: 3 - Environment
+########       minorSection: 3.17 - Combustion appliances - safe operation  
+################ pageNumber 254 ###################
+############ contentSection: 3.17.5 - Oil-firing appliance  installations  
+############ contentSection: 3.17.6 - Gas-fired appliance  installations  
+####           majorSection: 3 - Environment
+########       minorSection: 3.17 - Combustion appliances - safe operation  
+################ pageNumber 255 ###################
+############ contentSection: 3.17.7 - Labelling 
+####           majorSection: 3 - Environment
+########       minorSection: 3.17 - Combustion appliances - safe operation  
+################ pageNumber 256 ###################
+############ contentSection: 3.17.8 - Extract  fans 
+####           majorSection: 3 - Environment
+########       minorSection: 3.17 - Combustion appliances - safe operation  
+################ pageNumber 257 ###################
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+############ contentSection: 3.18.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 258 ###################
+############ contentSection: 3.18.1 - Chimneys  generally 
+####           majorSection: 3 - Environment
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+################ pageNumber 259 ###################
+############ contentSection: 3.18.2 - Chimne y designations  
+####           majorSection: 3 - Environment
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+################ pageNumber 260 ###################
+############ contentSection: 3.18.3 - Masonry  chimneys  
+####           majorSection: 3 - Environment
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+################ pageNumber 261 ###################
+############ contentSection: 3.18.4 - Metal  chimneys 
+############ contentSection: 3.18.5 - Flue-pipes 
+####           majorSection: 3 - Environment
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+################ pageNumber 262 ###################
+############ contentSection: 3.18.6 - Flue liners  
+####           majorSection: 3 - Environment
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+################ pageNumber 263 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.18 - Combustion appliances -  protection from 
+############ contentSection: 3.18.6 - Flue liners  
+################ pageNumber 264 ###################
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+############ contentSection: 3.19.0 - Introduction 
+############ contentSection: 3.19.1 - Relationship of masonry chimneys to combustible  material  
+####           majorSection: 3 - Environment
+################ pageNumber 265 ###################
+############ contentSection: 3.19.2 - Relationship of system chimneys to combustible  material  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 266 ###################
+############ contentSection: 3.19.3 - Relationship of metal chimneys to combustible material  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 267 ###################
+############ contentSection: 3.19.4 - Relationship of flue -pipes to combustible material  
+############ contentSection: 3.19.5 - Relationship of solid fuel appliance to combustible  material  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 268 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+############ contentSection: 3.19.5 - Relationship of solid fuel appliance to combustible  material  
+################ pageNumber 269 ###################
+############ contentSection: 3.19.6 - Relationship of oil -firing appliance to combustible  material  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 270 ###################
+############ contentSection: 3.19.7 - Relationship of gas -fired appliance to combustible  material  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 271 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+############ contentSection: 3.19.7 - Relationship of gas -fired appliance to combustible  material  
+################ pageNumber 272 ###################
+############ contentSection: 3.19.8 - Relationship of hearths to combustible  material  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 273 ###################
+############ contentSection: 3.19.9 - Fireplace  recesses  
+####           majorSection: 3 - Environment
+########       minorSection: 3.19 - Combustion appliances -  relationship to 
+################ pageNumber 274 ###################
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+############ contentSection: 3.20.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 275 ###################
+############ contentSection: 3.20.1 - Chimney and flue -pipe serving appliance burning any  fuel 
+############ contentSection: 3.20.2 - Chimneys and flue -pipes serving solid fuel appliances  
+############ contentSection: 3.20.3 - Chimneys and flue -pipes serving oil -firing appliances  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 276 ###################
+############ contentSection: 3.20.4 - Chimneys and flue -pipes serving gas -fired appliances  
+############ contentSection: 3.20.5 - Oil-firing appliances in bathrooms and bedrooms 
+############ contentSection: 3.20.6 - Gas-fired appliances in bathrooms and bedrooms  
+############ contentSection: 3.20.7 - Protection of metal  chimneys 
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 277 ###################
+############ contentSection: 3.20.8 - Size of flues - solid fuel  appliances 
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 278 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+############ contentSection: 3.20.8 - Size of flues - solid fuel  appliances 
+################ pageNumber 279 ###################
+############ contentSection: 3.20.9 - Size of flues - oil-firing  appliances 
+############ contentSection: 3.20.10 - Size of flues - gas-fired  appliances 
+############ contentSection: 3.20.11 - Design of  flues  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 280 ###################
+############ contentSection: 3.20.12 - Openings in  flues  
+############ contentSection: 3.20.13 - Access to  flues  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 281 ###################
+############ contentSection: 3.20.14 - Location of metal  chimneys  
+############ contentSection: 3.20.15 - Terminal discharges at low  level  
+############ contentSection: 3.20.16 - Terminal discharge from condensing  boilers  
+############ contentSection: 3.20.17 - Solid fuel appliance flue  outlets  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 282 ###################
+############ contentSection: 3.20.18 - Oil-firing appliance flue  outlets  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 283 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+############ contentSection: 3.20.18 - Oil-firing appliance flue  outlets  
+################ pageNumber 284 ###################
+############ contentSection: 3.20.19 - Gas-fired appliance flue outlets  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 285 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+############ contentSection: 3.20.19 - Gas-fired appliance flue outlets  
+################ pageNumber 286 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+############ contentSection: 3.20.19 - Gas-fired appliance flue outlets  
+################ pageNumber 287 ###################
+############ contentSection: 3.20.20 - Carbon monoxide  detection  
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+################ pageNumber 288 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.20 - Combustion appliances -  removal of 
+############ contentSection: 3.20.20 - Carbon monoxide  detection  
+################ pageNumber 289 ###################
+########       minorSection: 3.21 - Combustion appliances -  air for combustion  
+############ contentSection: 3.21.0 - Introduction 
+############ contentSection: 3.21.1 - Supply of air for combustion generally 
+####           majorSection: 3 - Environment
+################ pageNumber 290 ###################
+############ contentSection: 3.21.2 - Supply of air for combustion to solid fuel appliances 
+############ contentSection: 3.21.3 - Supply of air for combustion to oil -firing app liances  
+############ contentSection: 3.21.4 - Supply of air for co mbustion to gas -fired appliances 
+####           majorSection: 3 - Environment
+########       minorSection: 3.21 - Combustion appliances -  air for combustion  
+################ pageNumber 291 ###################
+############ contentSection: 3.21.5 - Flue-less gas heating  appliances  
+####           majorSection: 3 - Environment
+########       minorSection: 3.21 - Combustion appliances -  air for combustion  
+################ pageNumber 292 ###################
+########       minorSection: 3.22 - Combustion appliances -  air for  cooling  
+############ contentSection: 3.22.0 - Introduction 
+############ contentSection: 3.22.0 - Appliance  compartments 
+############ contentSection: 3.22.1 - Supply of air for cooling to oil -firing appliances 
+############ contentSection: 3.22.2 - Supply of air for cooling to gas -fired  appliances 
+####           majorSection: 3 - Environment
+################ pageNumber 293 ###################
+########       minorSection: 3.23 - Fuel storage -  protection from  fire 
+############ contentSection: 3.23.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 294 ###################
+############ contentSection: 3.23.1 - Separation of oil tank s from buildings and boundaries  
+####           majorSection: 3 - Environment
+########       minorSection: 3.23 - Fuel storage -  protection from  fire 
+################ pageNumber 295 ###################
+############ contentSection: 3.23.2 - Additional fire  protection 
+############ contentSection: 3.23.3 - Storage within a  building 
+############ contentSection: 3.23.4 - Bulk storage of woody biomass  fuel 
+####           majorSection: 3 - Environment
+########       minorSection: 3.23 - Fuel storage -  protection from  fire 
+################ pageNumber 296 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.23 - Fuel storage -  protection from  fire 
+############ contentSection: 3.23.4 - Bulk storage of woody biomass  fuel 
+################ pageNumber 297 ###################
+########       minorSection: 3.24 - Fuel storage -  containment  
+############ contentSection: 3.24.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 298 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.24 - Fuel storage -  containment  
+############ contentSection: 3.24.0 - Introduction 
+################ pageNumber 299 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.24 - Fuel storage -  containment  
+############ contentSection: 3.24.0 - Introduction 
+################ pageNumber 300 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3.24 - Fuel storage -  containment  
+############ contentSection: 3.24.0 - Introduction 
+################ pageNumber 301 ###################
+########       minorSection: 3.25 - Solid waste  storage  
+############ contentSection: 3.25.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 302 ###################
+############ contentSection: 3.25.1 - Solid waste storage  point  
+############ contentSection: 3.25.2 - Enclosed  storage 
+############ contentSection: 3.25.3 - Solid waste collection point  
+############ contentSection: 3.25.4 - Provision for washing  down  
+############ contentSection: 3.25.5 - Security against  vermin  
+####           majorSection: 3 - Environment
+########       minorSection: 3.25 - Solid waste  storage  
+################ pageNumber 303 ###################
+########       minorSection: 3.26 - Dungsteads and farm effluent  tanks 
+############ contentSection: 3.26.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 304 ###################
+############ contentSection: 3.26.1 - Construction of dungsteads and farm effluent tanks  
+############ contentSection: 3.26.2 - Location of dungsteads and farm effluent  tanks 
+############ contentSection: 3.26.3 - Safety of dungsteads and farm effluent  tanks 
+####           majorSection: 3 - Environment
+########       minorSection: 3.26 - Dungsteads and farm effluent  tanks 
+################ pageNumber 305 ###################
+########       minorSection: 3.27 - Water  efficiency  
+############ contentSection: 3.27.0 - Introduction 
+############ contentSection: 3.27.1 - Water  use 
+####           majorSection: 3 - Environment
+################ pageNumber 306 ###################
+############ contentSection: 3.27.2 - Water efficient  fittings  
+####           majorSection: 3 - Environment
+########       minorSection: 3.27 - Water  efficiency  
+################ pageNumber 307 ###################
+########       minorSection: 3.28 - Overheating  risk 
+############ contentSection: 3.20.0 - Introduction 
+####           majorSection: 3 - Environment
+################ pageNumber 308 ###################
+############ contentSection: 3.28.2 - Simple  method 
+####           majorSection: 3 - Environment
+########       minorSection: 3.28 - Overheating  risk 
+################ pageNumber 309 ###################
+############ contentSection: 3.28.3 - Dynamic  Thermal  Analysis  modelling  
+####           majorSection: 3 - Environment
+########       minorSection: 3.28 - Overheating  risk 
+################ pageNumber 310 ###################
+############ contentSection: 3.28.4 - Practicality  of mitigation  measures  
+####           majorSection: 3 - Environment
+########       minorSection: 3.28 - Overheating  risk 
+################ pageNumber 311 ###################
+############ contentSection: 3.28.5 - Written  Information 
+####           majorSection: 3 - Environment
+########       minorSection: 3.28 - Overheating  risk 
+################ pageNumber 312 ###################
+########       minorAnnex: 3A - Domestic Ventilation  Guide  
+############ contentAnnex: 3.A.0 - Purpose  of This Document  
+############ contentAnnex: 3.A.1 - Ventilation  in Buildings  
+####           majorSection: 3 - Environment
+################ pageNumber 313 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.1 - Ventilation  in Buildings  
+################ pageNumber 314 ###################
+############ contentAnnex: 3.A.3 - Purpose Provided  Ventilation 
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 315 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.3 - Purpose Provided  Ventilation 
+################ pageNumber 316 ###################
+############ contentAnnex: 3.A.5 - Natural  Ventilation with Intermittent  Mechanical  Extract  - 
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 317 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.5 - Natural  Ventilation with Intermittent  Mechanical  Extract  - 
+################ pageNumber 318 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.5 - Natural  Ventilation with Intermittent  Mechanical  Extract  - 
+################ pageNumber 319 ###################
+############ contentAnnex: 3.A.6 - Continuous  Mechanical  Extract  Ventilation - Installation  and 
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 320 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.6 - Continuous  Mechanical  Extract  Ventilation - Installation  and 
+################ pageNumber 321 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.6 - Continuous  Mechanical  Extract  Ventilation - Installation  and 
+################ pageNumber 322 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.6 - Continuous  Mechanical  Extract  Ventilation - Installation  and 
+################ pageNumber 323 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.6 - Continuous  Mechanical  Extract  Ventilation - Installation  and 
+################ pageNumber 324 ###################
+############ contentAnnex: 3.A.7 - Continuously  Operating  Balanced  Supply  and Extract Ventilation  - 
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 325 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.7 - Continuously  Operating  Balanced  Supply  and Extract Ventilation  - 
+################ pageNumber 326 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.7 - Continuously  Operating  Balanced  Supply  and Extract Ventilation  - 
+################ pageNumber 327 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.7 - Continuously  Operating  Balanced  Supply  and Extract Ventilation  - 
+################ pageNumber 328 ###################
+############ contentAnnex: 3.A.8 - Ventilation  Ductwork  
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 329 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.8 - Ventilation  Ductwork  
+################ pageNumber 330 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.8 - Ventilation  Ductwork  
+################ pageNumber 331 ###################
+############ contentAnnex: 3.A.9 - Carbon  Dioxide  Monitoring Equipment  
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 332 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.9 - Carbon  Dioxide  Monitoring Equipment  
+################ pageNumber 333 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.9 - Carbon  Dioxide  Monitoring Equipment  
+################ pageNumber 334 ###################
+############ contentAnnex: 3.A.10 - Example  format  - information  to the home  occupier on use and 
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+################ pageNumber 335 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.10 - Example  format  - information  to the home  occupier on use and 
+################ pageNumber 336 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.10 - Example  format  - information  to the home  occupier on use and 
+################ pageNumber 337 ###################
+####           majorSection: 3 - Environment
+########       minorSection: 3A - Domestic Ventilation  Guide  
+############ contentSection: 3.A.10 - Example  format  - information  to the home  occupier on use and 
+################ pageNumber 338 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.0 - Introduction  
+############ contentSection: 4.0.1 - Background 
+################ pageNumber 339 ###################
+############ contentSection: 4.0.2 - Aims  
+############ contentSection: 4.0.3 - Latest  changes  
+############ contentSection: 4.0.4 - Relevant  legislation 
+####           majorSection: 4 - Safety
+########       minorSection: 4.0 - Introduction  
+################ pageNumber 340 ###################
+############ contentSection: 4.0.5 - Certification  
+####           majorSection: 4 - Safety
+########       minorSection: 4.0 - Introduction  
+################ pageNumber 341 ###################
+########       minorSection: 4.1 - Access to  buildings  
+############ contentSection: 4.1.1 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 342 ###################
+############ contentSection: 4.1.2 - Accessible car parking to flats or  maisonettes 
+####           majorSection: 4 - Safety
+########       minorSection: 4.1 - Access to  buildings  
+################ pageNumber 343 ###################
+############ contentSection: 4.1.3 - Car parking within the curtilage of a  dwelling 
+############ contentSection: 4.1.4 - Accessible  routes  
+####           majorSection: 4 - Safety
+########       minorSection: 4.1 - Access to  buildings  
+################ pageNumber 344 ###################
+############ contentSection: 4.1.5 - Surface to accessible  routes  
+############ contentSection: 4.1.6 - Length of accessible  routes 
+############ contentSection: 4.1.7 - Width of accessible  routes  
+####           majorSection: 4 - Safety
+########       minorSection: 4.1 - Access to  buildings  
+################ pageNumber 345 ###################
+############ contentSection: 4.1.8 - Accessible  entrances  
+####           majorSection: 4 - Safety
+########       minorSection: 4.1 - Access to  buildings  
+################ pageNumber 346 ###################
+############ contentSection: 4.1.9 - Common  entrances  
+############ contentSection: 4.1.10 - Accessible  thresholds  
+####           majorSection: 4 - Safety
+########       minorSection: 4.1 - Access to  buildings  
+################ pageNumber 347 ###################
+############ contentSection: 4.1.11 - Alteration and extension  
+####           majorSection: 4 - Safety
+########       minorSection: 4.1 - Access to  buildings  
+################ pageNumber 348 ###################
+########       minorSection: 4.2 - Access within  buildings  
+############ contentSection: 4.2.1 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 349 ###################
+############ contentSection: 4.2.2 - Horizontal circulation in common areas of domestic  buildings  
+############ contentSection: 4.2.3 - Floor surfa ces in common areas of domestic buildings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 350 ###################
+############ contentSection: 4.2.4 - Lobbies in common areas of domestic  buildings  
+############ contentSection: 4.2.5 - Doors within common areas of a domestic building 
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 351 ###################
+############ contentSection: 4.2.6 - Vertical circulation in common areas of domestic buildings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 352 ###################
+############ contentSection: 4.2.7 - Accessibility within a storey of a dwelling  
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 353 ###################
+############ contentSection: 4.2.8 - Access between storeys in a  dwelling 
+############ contentSection: 4.2.9 - Unassisted access between storeys in a dwelling 
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 354 ###################
+############ contentSection: 4.2.10 - Split level  storeys  
+############ contentSection: 4.2.11 - Dwellings with limited entrance storey accommodation 
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 355 ###################
+############ contentSection: 4.2.12 - Alterations and  extensions 
+####           majorSection: 4 - Safety
+########       minorSection: 4.2 - Access within  buildings  
+################ pageNumber 356 ###################
+########       minorSection: 4.3 - Stairs and  ramps  
+############ contentSection: 4.3.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 357 ###################
+############ contentSection: 4.3.1 - Measurement for  stairs  
+############ contentSection: 4.3.2 - Rise, going, tread and pitch of  stairs 
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 358 ###################
+############ contentSection: 4.3.3 - Width of stair flights and landings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 359 ###################
+############ contentSection: 4.3.14 - and, when not in use, the installation should:  
+############ contentSection: 4.3.4 - Number of rises in a  flight  
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 360 ###################
+############ contentSection: 4.3.5 - Risers and  treads  
+############ contentSection: 4.3.6 - Stair  landings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 361 ###################
+############ contentSection: 4.3.7 - Warning surfaces to landings of external  steps 
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 362 ###################
+############ contentSection: 4.3.8 - Stair landings serving outward opening fully glazed  doors  
+############ contentSection: 4.3.9 - Stair flights consisting of both straight and tapered  treads  
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 363 ###################
+############ contentSection: 4.3.10 - Stair flights consisting wholly of tapered treads 
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 364 ###################
+############ contentSection: 4.3.11 - Pedestrian  ramps 
+############ contentSection: 4.3.12 - Width of ramps  flights  
+############ contentSection: 4.3.13 - Ramp  landings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 365 ###################
+############ contentSection: 4.3.14 - Handrails to stairs and  ramps 
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 366 ###################
+############ contentSection: 4.3.15 - Height of  handrails  
+############ contentSection: 4.3.16 - Headroom on stairs and  ramps 
+############ contentSection: 4.3.17 - Industrial stairs and fixed ladders  
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+################ pageNumber 367 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.3 - Stairs and  ramps  
+############ contentSection: 4.3.17 - Industrial stairs and fixed ladders  
+################ pageNumber 368 ###################
+########       minorSection: 4.4 - Pedestrian protective barriers  
+############ contentSection: 4.4.0 - Introdu ction 
+############ contentSection: 4.4.1 - Location of pedestrian protective  barriers  
+####           majorSection: 4 - Safety
+################ pageNumber 369 ###################
+############ contentSection: 4.4.2 - Design of pedestrian protective  barriers  
+####           majorSection: 4 - Safety
+########       minorSection: 4.4 - Pedestrian protective barriers  
+################ pageNumber 370 ###################
+############ contentSection: 4.4.3 - Guarding to the edge of  ramps 
+####           majorSection: 4 - Safety
+########       minorSection: 4.4 - Pedestrian protective barriers  
+################ pageNumber 371 ###################
+########       minorSection: 4.5 - Electrical  safety 
+############ contentSection: 4.5.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 372 ###################
+############ contentSection: 4.5.1 - Electrical  installations  
+############ contentSection: 4.5.2 - Extra- low voltage  installations  
+############ contentSection: 4.5.3 - Installations operating above low  voltage  
+####           majorSection: 4 - Safety
+########       minorSection: 4.5 - Electrical  safety 
+################ pageNumber 373 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.5 - Electrical  safety 
+############ contentSection: 4.5.3 - Installations operating above low  voltage  
+################ pageNumber 374 ###################
+########       minorSection: 4.6 - Electrical  fixtures  
+############ contentSection: 4.6.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 375 ###################
+############ contentSection: 4.6.1 - Lighting 
+############ contentSection: 4.6.2 - Lighting in common areas of domestic  buildings  
+############ contentSection: 4.6.3 - Door en try systems  
+############ contentSection: 4.6.4 - Socket  outlets 
+####           majorSection: 4 - Safety
+########       minorSection: 4.6 - Electrical  fixtures  
+################ pageNumber 376 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.6 - Electrical  fixtures  
+############ contentSection: 4.6.4 - Socket  outlets 
+################ pageNumber 377 ###################
+########       minorSection: 4.7 - Aids to  communication  
+############ contentSection: 4.7.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 378 ###################
+########       minorSection: 4.8 - Danger from accidents  
+############ contentSection: 4.8.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 379 ###################
+############ contentSection: 4.8.1 - Collision with projections  
+############ contentSection: 4.8.2 - Collision with glazing 
+####           majorSection: 4 - Safety
+########       minorSection: 4.8 - Danger from accidents  
+################ pageNumber 380 ###################
+############ contentSection: 4.8.3 - Cleaning of windows and  rooflights  
+####           majorSection: 4 - Safety
+########       minorSection: 4.8 - Danger from accidents  
+################ pageNumber 381 ###################
+############ contentSection: 4.8.4 - Guarding of windows for  cleaning 
+####           majorSection: 4 - Safety
+########       minorSection: 4.8 - Danger from accidents  
+################ pageNumber 382 ###################
+############ contentSection: 4.8.5 - Access to manual  controls  
+####           majorSection: 4 - Safety
+########       minorSection: 4.8 - Danger from accidents  
+################ pageNumber 383 ###################
+########       minorSection: 4.9 - Danger from heat 
+############ contentSection: 4.9.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 384 ###################
+############ contentSection: 4.9.1 - Installation of unvented hot water storage systems  
+############ contentSection: 4.9.2 - Specification of small unvented hot water storage  systems  
+####           majorSection: 4 - Safety
+########       minorSection: 4.9 - Danger from heat 
+################ pageNumber 385 ###################
+############ contentSection: 4.9.3 - Discharge from unvented hot water storage system s 
+####           majorSection: 4 - Safety
+########       minorSection: 4.9 - Danger from heat 
+################ pageNumber 386 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.9 - Danger from heat 
+############ contentSection: 4.9.3 - Discharge from unvented hot water storage system s 
+################ pageNumber 387 ###################
+############ contentSection: 4.9.4 - Discharge of steam or hot  water  
+############ contentSection: 4.9.5 - Hot water discharge from sanitary  fittings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.9 - Danger from heat 
+################ pageNumber 388 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.9 - Danger from heat 
+############ contentSection: 4.9.5 - Hot water discharge from sanitary  fittings  
+################ pageNumber 389 ###################
+########       minorSection: 4.10 - Fixed  seating  
+############ contentSection: 4.10.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 390 ###################
+########       minorSection: 4.11 - Liquefied petroleum gas  storage  
+############ contentSection: 4.11.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 391 ###################
+############ contentSection: 4.11.1 - LPG storage  installations  
+############ contentSection: 4.11.2 - LPG storage -  fixed  tanks 
+####           majorSection: 4 - Safety
+########       minorSection: 4.11 - Liquefied petroleum gas  storage  
+################ pageNumber 392 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.11 - Liquefied petroleum gas  storage  
+############ contentSection: 4.11.2 - LPG storage -  fixed  tanks 
+################ pageNumber 393 ###################
+############ contentSection: 4.11.3 - LPG storage -  cylinders  
+####           majorSection: 4 - Safety
+########       minorSection: 4.11 - Liquefied petroleum gas  storage  
+################ pageNumber 394 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.11 - Liquefied petroleum gas  storage  
+############ contentSection: 4.11.3 - LPG storage -  cylinders  
+################ pageNumber 395 ###################
+########       minorSection: 4.12 - Vehicle protective barriers  
+############ contentSection: 4.12.0 - Introduction 
+############ contentSection: 4.12.1 - Vehicle protective  barriers  
+####           majorSection: 4 - Safety
+################ pageNumber 396 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.12 - Vehicle protective barriers  
+############ contentSection: 4.12.1 - Vehicle protective  barriers  
+################ pageNumber 397 ###################
+########       minorSection: 4.13 - Security  
+############ contentSection: 4.13.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 398 ###################
+############ contentSection: 4.13.1 - Physical security of doors and  windows  
+############ contentSection: 4.13.2 - Doors and windows - 'Secured by Design'  
+############ contentSection: 4.13.3 - Doors and windows - product  accreditation  
+####           majorSection: 4 - Safety
+########       minorSection: 4.13 - Security  
+################ pageNumber 399 ###################
+############ contentSection: 4.13.4 - Doors and windows - product standards and component  
+####           majorSection: 4 - Safety
+########       minorSection: 4.13 - Security  
+################ pageNumber 400 ###################
+############ contentSection: 4.13.5 - Installation and fixing of doors and windows  
+####           majorSection: 4 - Safety
+########       minorSection: 4.13 - Security  
+################ pageNumber 401 ###################
+########       minorSection: 4.14 - In-building physical infrastructure for high -
+############ contentSection: 4.14.0 - Introduction 
+####           majorSection: 4 - Safety
+################ pageNumber 402 ###################
+############ contentSection: 4.14.1 - In-building physical infrastructure in  dwellings  
+####           majorSection: 4 - Safety
+########       minorSection: 4.14 - In-building physical infrastructure for high -
+################ pageNumber 403 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.14 - In-building physical infrastructure for high -
+############ contentSection: 4.14.1 - In-building physical infrastructure in  dwellings  
+################ pageNumber 404 ###################
+############ contentSection: 4.14.2 - Satellite and wireless  communications  
+####           majorSection: 4 - Safety
+########       minorSection: 4.14 - In-building physical infrastructure for high -
+################ pageNumber 405 ###################
+####           majorSection: 4 - Safety
+########       minorSection: 4.14 - In-building physical infrastructure for high -
+############ contentSection: 4.14.2 - Satellite and wireless  communications  
+################ pageNumber 406 ###################
+####           majorSection: 5 - Noise
+########       minorSection: 5.0 - Introduction  
+############ contentSection: 5.0.1 - Background 
+############ contentSection: 5.0.2 - Aims  
+############ contentSection: 5.0.3 - Latest  changes  
+################ pageNumber 407 ###################
+############ contentSection: 5.0.4 - Explanation of  terms 
+############ contentSection: 5.0.5 - Reduction of sound  transmission  
+####           majorSection: 5 - Noise
+########       minorSection: 5.0 - Introduction  
+################ pageNumber 408 ###################
+############ contentSection: 5.0.6 - Principles of airborne sound  transmission  
+############ contentSection: 5.0.7 - Principles of impact sound  transmission  
+####           majorSection: 5 - Noise
+########       minorSection: 5.0 - Introduction  
+################ pageNumber 409 ###################
+############ contentSection: 5.0.8 - Principles of flanking sound  transmission  
+############ contentSection: 5.0.9 - Relevant  legislati on 
+####           majorSection: 5 - Noise
+########       minorSection: 5.0 - Introduction  
+################ pageNumber 410 ###################
+############ contentSection: 5.0.10 - Certification  
+####           majorSection: 5 - Noise
+########       minorSection: 5.0 - Introduction  
+################ pageNumber 411 ###################
+########       minorSection: 5.1 - Noise separation  
+############ contentSection: 5.1.0 - Introduction 
+####           majorSection: 5 - Noise
+################ pageNumber 412 ###################
+############ contentSection: 5.1.1 - Scope of  standard 
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+################ pageNumber 413 ###################
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+############ contentSection: 5.1.1 - Scope of  standard 
+################ pageNumber 414 ###################
+############ contentSection: 5.1.2 - Design performance  levels  
+############ contentSection: 5.1.3 - Example  Constructions  
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+################ pageNumber 415 ###################
+############ contentSection: 5.1.4 - Other  constructions  
+############ contentSection: 5.1.5 - Conversions  
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+################ pageNumber 416 ###################
+############ contentSection: 5.1.6 - Doors in a separating  wall 
+############ contentSection: 5.1.7 - Noise from  services  
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+################ pageNumber 417 ###################
+############ contentSection: 5.1.8 - Post -completion performance test  levels  
+############ contentSection: 5.1.9 - Post -completion  testing  
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+################ pageNumber 418 ###################
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+############ contentSection: 5.1.9 - Post -completion  testing  
+################ pageNumber 419 ###################
+############ contentSection: 5.1.10 - Remedial action following a test  failure  
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+################ pageNumber 420 ###################
+####           majorSection: 5 - Noise
+########       minorSection: 5.1 - Noise separation  
+############ contentSection: 5.1.10 - Remedial action following a test  failure  
+################ pageNumber 421 ###################
+########       minorSection: 5.2 - Noise reduction between  rooms  
+############ contentSection: 5.2.0 - Introduction 
+############ contentSection: 5.2.1 - Design performance  level  
+####           majorSection: 5 - Noise
+################ pageNumber 422 ###################
+############ contentSection: 5.2.2 - Internal  walls  
+############ contentSection: 5.2.3 - Intermediate  floors  
+############ contentSection: 5.2.4 - Conversions  
+####           majorSection: 5 - Noise
+########       minorSection: 5.2 - Noise reduction between  rooms  
+################ pageNumber 423 ###################
+####           majorSection: 5 - Noise
+########       minorSection: 5.2 - Noise reduction between  rooms  
+############ contentSection: 5.2.4 - Conversions  
+################ pageNumber 424 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+############ contentSection: 6.0.1 - Introduction 
+################ pageNumber 425 ###################
+############ contentSection: 6.0.2 - Aims  
+############ contentSection: 6.0.3 - General  guidance  
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+################ pageNumber 426 ###################
+############ contentSection: 6.0.4 - U-values  
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+################ pageNumber 427 ###################
+############ contentSection: 6.0.5 - Thermal  conductivity 
+############ contentSection: 6.0.6 - Thermal  transmittance  through separating  elements 
+############ contentSection: 6.0.7 - Buffering  effects on the insulation envelope  
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+################ pageNumber 428 ###################
+############ contentSection: 6.0.8 - Roofs  that perform  the function  of a floor 
+############ contentSection: 6.0.9 - Conservatories  and atria  
+############ contentSection: 6.0.10 - Performance of fixed  building  services  
+############ contentSection: 6.0.11 - Calculation of  areas  
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+################ pageNumber 429 ###################
+############ contentSection: 6.0.12 - Latest  changes  
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+################ pageNumber 430 ###################
+############ contentSection: 6.0.13 - Certification  
+####           majorSection: 6 - Energy
+########       minorSection: 6.0 - Introduction  
+################ pageNumber 431 ###################
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+############ contentSection: 6.1.0 - Introduction 
+####           majorSection: 6 - Energy
+################ pageNumber 432 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+############ contentSection: 6.1.0 - Introduction 
+################ pageNumber 433 ###################
+############ contentSection: 6.1.1 - Dwellings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+################ pageNumber 434 ###################
+############ contentSection: 6.1.2 - Setting  the target  emissions  and delivered  energy  rates  
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+################ pageNumber 435 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+############ contentSection: 6.1.2 - Setting  the target  emissions  and delivered  energy  rates  
+################ pageNumber 436 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+############ contentSection: 6.1.2 - Setting  the target  emissions  and delivered  energy  rates  
+################ pageNumber 437 ###################
+############ contentSection: 6.1.3 - Calculating Dwelling Emissions  Rate  and Dwelling  Delivered 
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+################ pageNumber 438 ###################
+############ contentSection: 6.1.4 - Buildings  with multiple  dwellings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+################ pageNumber 439 ###################
+############ contentSection: 6.1.5 - Heated  common  areas  in buildings  with multiple  dwellings  
+############ contentSection: 6.1.6 - Conservatories  and stand -alone  buildings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.1 - Energy  demand  and carbon  dioxide  emissions 
+################ pageNumber 440 ###################
+########       minorSection: 6.2 - Building insulation  envelope  
+############ contentSection: 6.2.0 - Introduction 
+####           majorSection: 6 - Energy
+################ pageNumber 441 ###################
+############ contentSection: 6.2.1 - Maximum  U-values for fabric  elements  of the building 
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 442 ###################
+############ contentSection: 6.2.2 - Areas  of windows,  doors  and rooflights  
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 443 ###################
+############ contentSection: 6.2.3 - Limiting heat  loss through thermal  bridging 
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 444 ###################
+############ contentSection: 6.2.4 - Limiting uncontrolled air infiltration 
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 445 ###################
+############ contentSection: 6.2.5 - Air-tightness  testing  
+############ contentSection: 6.2.6 - Introducing  heating  to unheated   buildings  and conversion  of 
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 446 ###################
+############ contentSection: 6.2.7 - Conversion of historic,  listed  or traditional  buildings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 447 ###################
+############ contentSection: 6.2.8 - Extensions  to the insulation  envelope  
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 448 ###################
+############ contentSection: 6.2.9 - Thermal  bridging  and air infiltration for existing  buildings  
+############ contentSection: 6.2.10 - Alterations  to the insulation  envelope  
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 449 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+############ contentSection: 6.2.10 - Alterations  to the insulation  envelope  
+################ pageNumber 450 ###################
+############ contentSection: 6.2.11 - Conservatories  
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 451 ###################
+############ contentSection: 6.2.12 - Stand -alone buildings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.2 - Building insulation  envelope  
+################ pageNumber 452 ###################
+########       minorSection: 6.3 - Heating  system  
+############ contentSection: 6.3.0 - Introduction 
+############ contentSection: 6.3.1 - Performance of fixed  heating  systems  in new and existing buildings  
+####           majorSection: 6 - Energy
+################ pageNumber 453 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.3 - Heating  system  
+############ contentSection: 6.3.1 - Performance of fixed  heating  systems  in new and existing buildings  
+################ pageNumber 454 ###################
+########       minorSection: 6.4 - Insulation of pipes,  ducts  and vessels 
+############ contentSection: 6.4.0 - Introduction 
+############ contentSection: 6.4.1 - Insulation  of pipes,  ducts  and vessels in new and existing 
+####           majorSection: 6 - Energy
+################ pageNumber 455 ###################
+########       minorSection: 6.5 - Artificial and display lighting  
+############ contentSection: 6.5.0 - Introduction 
+############ contentSection: 6.5.1 - Fixed  lighting 
+####           majorSection: 6 - Energy
+################ pageNumber 456 ###################
+########       minorSection: 6.6 - Mechanical  ventilation and air conditioning  
+############ contentSection: 6.6.0 - Introduction 
+############ contentSection: 6.6.1 - Form  and fabric of the building 
+####           majorSection: 6 - Energy
+################ pageNumber 457 ###################
+############ contentSection: 6.6.2 - Efficiency of mechanical  ventilation  and air conditioning systems  
+############ contentSection: 6.6.3 - Design  and installation of Ductwork  
+####           majorSection: 6 - Energy
+########       minorSection: 6.6 - Mechanical  ventilation and air conditioning  
+################ pageNumber 458 ###################
+########       minorSection: 6.7 - Commissioning buildin g services  
+############ contentSection: 6.7.0 - Introduction 
+############ contentSection: 6.7.1 - Inspection  and commissioning 
+####           majorSection: 6 - Energy
+################ pageNumber 459 ###################
+############ contentSection: 6.7.2 - Commissioning Plan at design  stage 
+############ contentSection: 6.7.3 - Commissioning  Report  on completion  of construction  
+####           majorSection: 6 - Energy
+########       minorSection: 6.7 - Commissioning buildin g services  
+################ pageNumber 460 ###################
+########       minorSection: 6.8 - Written  information  
+############ contentSection: 6.8.0 - Introduction 
+####           majorSection: 6 - Energy
+################ pageNumber 461 ###################
+############ contentSection: 6.8.1 - Written  information 
+############ contentSection: 6.8.2 - Quick Start  Guide  
+############ contentSection: 6.8.3 - Information  to enable future  retrofit  of zero  direct  emissions 
+####           majorSection: 6 - Energy
+########       minorSection: 6.8 - Written  information  
+################ pageNumber 462 ###################
+############ contentSection: 6.8.4 - Work  on existing  buildings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.8 - Written  information  
+################ pageNumber 463 ###################
+########       minorSection: 6.9 - Energy performance certificates 
+############ contentSection: 6.9.0 - Introduction 
+####           majorSection: 6 - Energy
+################ pageNumber 464 ###################
+############ contentSection: 6.9.1 - Calculating  the carbon dioxide  emissions for a certificate  
+############ contentSection: 6.9.2 - Information to be provided for buildings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.9 - Energy performance certificates 
+################ pageNumber 465 ###################
+############ contentSection: 6.9.3 - Location of an energy performance  certificate  
+####           majorSection: 6 - Energy
+########       minorSection: 6.9 - Energy performance certificates 
+################ pageNumber 466 ###################
+############ contentSection: 6.9.4 - Conservatories  and other stand -alone  buildings  
+####           majorSection: 6 - Energy
+########       minorSection: 6.9 - Energy performance certificates 
+################ pageNumber 467 ###################
+########       minorSection: 6.10 - Metering  
+############ contentSection: 6.10.0 - Introduction 
+####           majorSection: 6 - Energy
+################ pageNumber 468 ###################
+########       minorAnnex: 6.A - Compensatory  approach  - heat  loss 
+############ contentAnnex: 6.A.0 - Introduction 
+############ contentAnnex: 6.A.1 - Example:  alteration  to create  rooms  in a roof space  
+####           majorSection: 6 - Energy
+################ pageNumber 469 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.A - Compensatory  approach  - heat  loss 
+############ contentSection: 6.A.1 - Example:  alteration  to create  rooms  in a roof space  
+################ pageNumber 470 ###################
+############ contentAnnex: 6.A.2 - Example:  single  storey  extension  
+####           majorSection: 6 - Energy
+########       minorSection: 6.A - Compensatory  approach  - heat  loss 
+################ pageNumber 471 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.A - Compensatory  approach  - heat  loss 
+############ contentSection: 6.A.2 - Example:  single  storey  extension  
+################ pageNumber 472 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.A - Compensatory  approach  - heat  loss 
+############ contentSection: 6.A.2 - Example:  single  storey  extension  
+################ pageNumber 473 ###################
+########       minorAnnex: 6.B - - Consideration of High- Efficiency 
+############ contentAnnex: 6.B.0 - Introduction 
+############ contentAnnex: 6.B.1 - Implications for   design 
+####           majorSection: 6 - Energy
+################ pageNumber 474 ###################
+############ contentAnnex: 6.B.2 - Process  
+####           majorSection: 6 - Energy
+########       minorSection: 6.B - - Consideration of High- Efficiency 
+################ pageNumber 475 ###################
+####           majorSection: 6 - Energy
+########       minorSection: 6.B - - Consideration of High- Efficiency 
+############ contentSection: 6.B.2 - Process  
+################ pageNumber 476 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.0 - Introduction  
+############ contentSection: 7.0.1 - Background 
+############ contentSection: 7.0.2 - Aims  
+################ pageNumber 477 ###################
+############ contentSection: 7.0.3 - Scope  
+############ contentSection: 7.0.4 - Explanation of  terms 
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.0 - Introduction  
+################ pageNumber 478 ###################
+############ contentSection: 7.0.5 - Latest  changes  
+############ contentSection: 7.0.6 - Relevant  legislation 
+############ contentSection: 7.0.7 - Certification  
+############ contentSection: 7.0.8 - Other sustainability  indicators  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.0 - Introduction  
+################ pageNumber 479 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.0 - Introduction  
+############ contentSection: 7.0.8 - Other sustainability  indicators  
+################ pageNumber 480 ###################
+########       minorSection: 7.1 - Statement of sustainability 
+############ contentSection: 7.1.0 - Statement of sustainability (sustainability  label)  
+####           majorSection: 7 - Sustainability
+################ pageNumber 481 ###################
+############ contentSection: 7.1.1 - Levels of  sustainability 
+############ contentSection: 7.1.2 - Bronze  level  
+############ contentSection: 7.1.3 - Bronze Active  level  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+################ pageNumber 482 ###################
+############ contentSection: 7.1.4 - Silver level  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+################ pageNumber 483 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+############ contentSection: 7.1.4 - Silver level  
+################ pageNumber 484 ###################
+############ contentSection: 7.1.5 - Silver Active  level  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+################ pageNumber 485 ###################
+############ contentSection: 7.1.6 - Gold  level  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+################ pageNumber 486 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+############ contentSection: 7.1.6 - Gold  level  
+################ pageNumber 487 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+############ contentSection: 7.1.6 - Gold  level  
+################ pageNumber 488 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+############ contentSection: 7.1.6 - Gold  level  
+################ pageNumber 489 ###################
+############ contentSection: 7.1.7 - Carbon dioxide emissions only at Platinum  level  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+################ pageNumber 490 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.1 - Statement of sustainability 
+############ contentSection: 7.1.7 - Carbon dioxide emissions only at Platinum  level  
+################ pageNumber 491 ###################
+########       minorSection: 7.2 - Electric Vehicle Charging  
+############ contentSection: 7.2.0 - Introduction 
+####           majorSection: 7 - Sustainability
+################ pageNumber 492 ###################
+############ contentSection: 7.2.1 - Charge point provision to new dwellings (including creation of 
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.2 - Electric Vehicle Charging  
+################ pageNumber 493 ###################
+############ contentSection: 7.2.2 - Provision to domestic buildings undergoing major renovation 
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.2 - Electric Vehicle Charging  
+################ pageNumber 494 ###################
+############ contentSection: 7.2.3 - Mixed Development  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.2 - Electric Vehicle Charging  
+################ pageNumber 495 ###################
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.2 - Electric Vehicle Charging  
+############ contentSection: 7.2.3 - Mixed Development  
+################ pageNumber 496 ###################
+############ contentSection: 7.2.7 - Information on the installation and operation of charge points  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.2 - Electric Vehicle Charging  
+################ pageNumber 497 ###################
+########       minorAnnex: 7.A - Sample sustainability label  
+############ contentAnnex: 7.A.0 - Introduction 
+############ contentAnnex: 7.A.1 - Sample sustainability  label  
+####           majorSection: 7 - Sustainability
+################ pageNumber 498 ###################
+########       minorAnnex: 7.B - Supplementary guidance in the aspect of 
+############ contentAnnex: 7.B.0 - Introduction 
+############ contentAnnex: 7.B.1 - Scope  
+############ contentAnnex: 7.B.2 - Format  
+############ contentAnnex: 7.B.3 - Graphics, images and  text 
+####           majorSection: 7 - Sustainability
+################ pageNumber 499 ###################
+############ contentAnnex: 7.B.4 - DOs and  DON'Ts  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.B - Supplementary guidance in the aspect of 
+################ pageNumber 500 ###################
+############ contentAnnex: 7.B.5 - Sections  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.B - Supplementary guidance in the aspect of 
+################ pageNumber 501 ###################
+############ contentAnnex: 7.B.6 - Labels (applicable to Gold level  only)  
+####           majorSection: 7 - Sustainability
+########       minorSection: 7.B - Supplementary guidance in the aspect of 
+################ pageNumber 502 ###################
+########       minorAnnex: 7.C - Desk Space  
+####           majorSection: 7 - Sustainability
+############ contentSection: None - None
+################ pageNumber 503 ###################
+########       minorAnnex: 7.D - Mobility Space  
+####           majorSection: 7 - Sustainability
+############ contentSection: None - None
+################ pageNumber 504 ###################
+########       minorAnnex: 7.E - Sustainability Label  
+####           majorSection: 7 - Sustainability
+############ contentSection: None - None
+################ pageNumber 505 ###################
+####           majorAppendix: A - Defined Terms
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 506 ###################
+####           majorAppendix: A - Defined Terms
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 507 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 508 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 509 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 510 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 511 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 512 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 513 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 514 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 515 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 516 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 517 ###################
+####           majorSection: A - Defined Terms
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 518 ###################
+####           majorAppendix: B - list of standards and other
+####           majorSection: B - list of standards and other
+########       minorSection: None - None
+############ contentSection: None - None
+################ pageNumber 519 ###################
+########       minorAnnex: B.1 - British Standards  
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 520 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 521 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 522 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 523 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 524 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 525 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 526 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 527 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 528 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.1 - British Standards  
+############ contentSection: None - None
+################ pageNumber 529 ###################
+########       minorAnnex: B.2 - Codes of Practice (British 
+########       minorAnnex: B.3 - European Standards     
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 530 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 531 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 532 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 533 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 534 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 535 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 536 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 537 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 538 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.3 - European Standards     
+############ contentSection: None - None
+################ pageNumber 539 ###################
+########       minorAnnex: B.4 - Drafts for Development (European 
+########       minorAnnex: B.5 - Legislation - Statutory Instruments 
+####           majorSection: B - list of standards and other
+########       minorSection: B.5 - Legislation - Statutory Instruments 
+############ contentSection: None - None
+################ pageNumber 540 ###################
+########       minorAnnex: B.6 - Other Publications - Section 0 
+####           majorSection: B - list of standards and other
+########       minorSection: B.6 - Other Publications - Section 0 
+############ contentSection: None - None
+################ pageNumber 541 ###################
+########       minorAnnex: B.7 - Other Publications - Section 1 
+########       minorAnnex: B.8 - Other Publications - Section 2 
+####           majorSection: B - list of standards and other
+########       minorSection: B.8 - Other Publications - Section 2 
+############ contentSection: None - None
+################ pageNumber 542 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.8 - Other Publications - Section 2 
+############ contentSection: None - None
+################ pageNumber 543 ###################
+########       minorAnnex: B.9 - Other Publications - Section 3 
+####           majorSection: B - list of standards and other
+########       minorSection: B.9 - Other Publications - Section 3 
+############ contentSection: None - None
+################ pageNumber 544 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.9 - Other Publications - Section 3 
+############ contentSection: None - None
+################ pageNumber 545 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.9 - Other Publications - Section 3 
+############ contentSection: None - None
+################ pageNumber 546 ###################
+########       minorAnnex: B.10 - Other Publications - Section 4 
+####           majorSection: B - list of standards and other
+########       minorSection: B.10 - Other Publications - Section 4 
+############ contentSection: None - None
+################ pageNumber 547 ###################
+########       minorAnnex: B.11 - Other Publications - Section 5 
+########       minorAnnex: B.12 - Other Publications - Section 6 
+####           majorSection: B - list of standards and other
+########       minorSection: B.12 - Other Publications - Section 6 
+############ contentSection: None - None
+################ pageNumber 548 ###################
+####           majorSection: B - list of standards and other
+########       minorSection: B.12 - Other Publications - Section 6 
+############ contentSection: None - None
+################ pageNumber 549 ###################
+########       minorAnnex: B.13 - Other Publications - Section 7 
+####           majorSection: B - list of standards and other
+########       minorSection: B.13 - Other Publications - Section 7 
+############ contentSection: None - None
